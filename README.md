@@ -1,8 +1,5 @@
 <hr>
-<br>
 <h1>HELLO WORLD , I'm YOUNG CHAN ❗️❗️</h1>
-<h3>korean 🇰🇷</h3>
-<br>
 <hr>
 <h2>Tech stack 📚</h2>
 <span>
