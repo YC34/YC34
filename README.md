@@ -14,28 +14,25 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
 </span>
 
-<h2>Git Commit Convention</h2>
+<h2>Git Commit Convention &amp; Commit Message 작성 규칙</h2>
 <p>
-    <strong>[init]</strong>: 포르젝트 시작
-    <strong>[feat]</strong>: 새로운 기능 추가
-    <strong>[fix]</strong>: 버그 수정
-    <strong>[docs]</strong>: 문서 수정
-    <strong>[style]</strong>: 코드 포맷팅, 세미콜론 누락, 코드변경이 없는 경우
-    <strong>[test]</strong>: 테스트 코드, 리팩토링 테스트 코드 추가
-    <strong>[chore]</strong>: 빌드 업무 수정, 패키지 매니저 수정, production code와 무관한 부분들
-    <strong>[comment]</strong>: 주석 추가 및 변경
-    <strong>[remove]</strong>: 파일, 폴더 삭제
-    <strong>[rename]</strong>: 파일, 폴더명 수정
+    <strong>[init]</strong>: 포르젝트 시작<br>
+    <strong>[feat]</strong>: 새로운 기능 추가<br>
+    <strong>[fix]</strong>: 버그 수정<br>
+    <strong>[docs]</strong>: 문서 수정<br>
+    <strong>[style]</strong>: 코드 포맷팅, 세미콜론 누락, 코드변경이 없는 경우<br>
+    <strong>[test]</strong>: 테스트 코드, 리팩토링 테스트 코드 추가<br>
+    <strong>[chore]</strong>: 빌드 업무 수정, 패키지 매니저 수정, production code와 무관한 부분들<br>
+    <strong>[comment]</strong>: 주석 추가 및 변경<br>
+    <strong>[remove]</strong>: 파일, 폴더 삭제<br>
+    <strong>[rename]</strong>: 파일, 폴더명 수정<br><br>
+    <strong>Commit Message 작성 규칙:</strong><br>
+    Add : 추가<br>
+    Remove : 삭제<br>
+    Simplify : 단순화<br>
+    Update : 보완<br>
+    Implement : 구현<br>
+    Prevent : 방지<br>
+    Move : 이동<br>
+    Rename : 이름 변경<br>
 </p>
-
-<h3>Commit Message 작성 규칙</h3>
-<ul>
-    <li>Add : 추가</li>
-    <li>Remove : 삭제</li>
-    <li>Simplify : 단순화</li>
-    <li>Update : 보완</li>
-    <li>Implement : 구현</li>
-    <li>Prevent : 방지</li>
-    <li>Move : 이동</li>
-    <li>Rename : 이름 변경</li>
-</ul>
