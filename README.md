@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-    61DAFB
 </span>
 <hr>
 <h2>Git Commit Convention &amp; Commit Message 작성 규칙</h2>
